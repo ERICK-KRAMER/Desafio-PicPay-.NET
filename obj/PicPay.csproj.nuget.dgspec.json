@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\PicPay\\PicPay.csproj": {}
+    "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\picpay\\PicPay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\PicPay\\PicPay.csproj": {
+    "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\picpay\\PicPay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\PicPay\\PicPay.csproj",
+        "projectUniqueName": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\picpay\\PicPay.csproj",
         "projectName": "PicPay",
-        "projectPath": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\PicPay\\PicPay.csproj",
+        "projectPath": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\picpay\\PicPay.csproj",
         "packagesPath": "C:\\Users\\Kramer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\PicPay\\obj\\",
+        "outputPath": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\picpay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kramer\\AppData\\Roaming\\NuGet\\NuGet.Config"

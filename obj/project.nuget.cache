@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vC1eJNG99j4=",
+  "dgSpecHash": "fDqf1uDQWow=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\PicPay\\PicPay.csproj",
+  "projectFilePath": "C:\\Users\\Kramer\\Desktop\\.NET\\PicPay\\picpay\\PicPay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kramer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Kramer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
